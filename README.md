@@ -1,16 +1,18 @@
-### Hi there 👋
+### **Hey there, I'm Yani** 👋
 
-<!--
-**yippyym/yippyym** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A curious 16 year old high school senior who currently resides in Toronto, Canada and has a keen interest in fusing the worlds of business and technology. 
 
-Here are some ideas to get you started:
+🔭 **My current pursuits:**  
+* University applications 👀
+* Expanding outreach and bridging the gender gap in STEM with a community of hard-working friends @ https://superpositiontoronto.com/  
+* Bringing my community together by hosting hacakthons!  
+  * The SuperPOSITRON: https://the-superpositron.devpost.com/
+  * InfiniHacks: https://infinihacks.devpost.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ **Fun facts:**  
+* I'm fluent in English and Mandarin, and I'm learning Japanese!  
+* I've practiced Wado Ryu Karate for 10 years
+
+📫 **How to reach me:**  
+LinkedIn: https://www.linkedin.com/in/yanimei/  
+Email: ninimei2020@gmail.com
