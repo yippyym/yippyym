@@ -8,6 +8,8 @@ A curious 16 year old high school senior who currently resides in Toronto, Canad
 * Bringing my community together by hosting hacakthons!  
   * The SuperPOSITRON: https://the-superpositron.devpost.com/
   * InfiniHacks: https://infinihacks.devpost.com/
+* Helping underprivileged communities in Cameroon with Soapfor237! https://www.camerooncovid19.com/ 
+* Personal website (WIP, looking for suggestions!) https://yippyym.github.io/
 
 ⚡ **Fun facts:**  
 * I'm fluent in English and Mandarin, and I'm learning Japanese!  
