@@ -1,6 +1,6 @@
 ### **Hey there, I'm Yani** 👋
 
-A curious 16 year old high school senior who currently resides in Toronto, Canada and has a keen interest in fusing the worlds of business and technology. 
+A 17 year old high school senior who currently resides in Toronto, Canada with a keen interest in fusing the worlds of business and technology. 
 
 🔭 **My current pursuits:**  
 * University applications 👀
