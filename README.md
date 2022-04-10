@@ -3,7 +3,6 @@
 A 17 year old high school senior who currently resides in Toronto, Canada with a keen interest in fusing the worlds of business and technology. 
 
 🔭 **My current pursuits:**  
-* University applications 👀
 * Expanding outreach and bridging the gender gap in STEM with a community of hard-working friends @ https://superpositiontoronto.com/  
 * Bringing my community together by hosting hacakthons!  
   * The SuperPOSITRON: https://the-superpositron.devpost.com/
@@ -13,7 +12,7 @@ A 17 year old high school senior who currently resides in Toronto, Canada with a
 
 ⚡ **Fun facts:**  
 * I'm fluent in English and Mandarin, and I'm learning Japanese!  
-* I've practiced Wado Ryu Karate for 10 years
+* Martial artist here! 10 years of Wado Ryu Karate 🤗
 
 📫 **How to reach me:**  
 LinkedIn: https://www.linkedin.com/in/yanimei/  
