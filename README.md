@@ -9,7 +9,7 @@ A 17 year old high school senior who currently resides in Toronto, Canada with a
   * The SuperPOSITRON: https://the-superpositron.devpost.com/
   * InfiniHacks: https://infinihacks.devpost.com/
 * Helping underprivileged communities in Cameroon with Soapfor237! https://www.camerooncovid19.com/ 
-* Personal website (WIP, looking for suggestions!) https://yippyym.github.io/
+* Personal website (WIP, looking for suggestions!) https://yani.qoom.space
 
 ⚡ **Fun facts:**  
 * I'm fluent in English and Mandarin, and I'm learning Japanese!  
