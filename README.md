@@ -1,19 +1,26 @@
-### **Hey there, I'm Yani** 👋
+### **Hey there, it's Yani** 👋
 
-A 17 year old high school senior who currently resides in Toronto, Canada with a keen interest in fusing the worlds of business and technology. 
+An incoming computer science student at the University of Waterloo! Follow my journey as I try to "figure it out", if I ever do :,). 
 
-🔭 **My current pursuits:**  
+✨ **My current pursuits...**  
 * Expanding outreach and bridging the gender gap in STEM with a community of hard-working friends @ https://superpositiontoronto.com/  
 * Bringing my community together by hosting hacakthons!  
   * The SuperPOSITRON: https://the-superpositron.devpost.com/
   * InfiniHacks: https://infinihacks.devpost.com/
 * Helping underprivileged communities in Cameroon with Soapfor237! https://www.camerooncovid19.com/ 
-* Personal website (WIP, looking for suggestions!) https://yani.qoom.space
 
-⚡ **Fun facts:**  
+💫 **Latest tech stack...**  
+* React Native w/Udemy and Codecademy 
+* Object Oriented Programming w/C++ 
+* Mobile dev w/Flutter
+
+⚡ **Fun facts...**  
 * I'm fluent in English and Mandarin, and I'm learning Japanese!  
-* Martial artist here! 10 years of Wado Ryu Karate 🤗
+* Martial artist here! 10 years of Wado Ryu Karate experience, pow pow 🤗
 
-📫 **How to reach me:**  
+⚡ **I won't shut up about...**  
+* Feminism. Period. 
+
+📫 **Connect w/me...**  
 LinkedIn: https://www.linkedin.com/in/yanimei/  
-Email: ninimei2020@gmail.com
+Email: y6mei@uwaterloo.ca
