@@ -9,16 +9,16 @@ An incoming computer science student at the University of Waterloo! Follow my jo
   * InfiniHacks: https://infinihacks.devpost.com/
 * Helping underprivileged communities in Cameroon with Soapfor237! https://www.camerooncovid19.com/ 
 
-💫 **Latest tech stack...**  
+✨ **Latest tech stack...**  
 * React Native w/Udemy and Codecademy 
 * Object Oriented Programming w/C++ 
 * Mobile dev w/Flutter
 
-⚡ **Fun facts...**  
+✨ **Fun facts...**  
 * I'm fluent in English and Mandarin, and I'm learning Japanese!  
 * Martial artist here! 10 years of Wado Ryu Karate experience, pow pow 🤗
 
-⚡ **I won't shut up about...**  
+✨ **I won't shut up about...**  
 * Feminism. Period. 
 
 📫 **Connect w/me...**  
