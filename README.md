@@ -1,6 +1,6 @@
 ### **Hey there, it's Yani** 👋
 
-An incoming computer science student at the University of Waterloo! Follow my journey as I try to "figure it out", if I ever do :,). 
+An incoming computer science student at the University of Waterloo! Follow my journey as I try to "figure it out", if I ever do, that is.  
 
 ✨ **My current pursuits...**  
 * Expanding outreach and bridging the gender gap in STEM with a community of hard-working friends @ https://superpositiontoronto.com/  
