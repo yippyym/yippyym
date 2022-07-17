@@ -1,4 +1,4 @@
-### **Hey there, it's Yani** 👋
+### **Hey, it's Yani** 👋
 
 An incoming computer science student at the University of Waterloo! Follow my journey as I try to "figure it out", if I ever do, that is.  
 
@@ -24,3 +24,4 @@ An incoming computer science student at the University of Waterloo! Follow my jo
 📫 **Connect w/me...**  
 LinkedIn: https://www.linkedin.com/in/yanimei/  
 Email: y6mei@uwaterloo.ca
+Website: https://yani.qoom.space
