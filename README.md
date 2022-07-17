@@ -23,5 +23,5 @@ An incoming computer science student at the University of Waterloo! Follow my jo
 
 📫 **Connect w/me...**  
 LinkedIn: https://www.linkedin.com/in/yanimei/  
-Email: y6mei@uwaterloo.ca
+Email: y6mei@uwaterloo.ca  
 Website: https://yani.qoom.space
