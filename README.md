@@ -1,6 +1,6 @@
 ### **Hey, it's Yani** 👋
 
-An incoming computer science student at the University of Waterloo! Follow my journey as I try to "figure it out", if I ever do, that is.  
+A computer science student at the University of Waterloo! Follow my journey as I try to "figure it out", if I ever do, that is.  
 
 ✨ **My current pursuits...**  
 * Expanding outreach and bridging the gender gap in STEM with a community of hard-working friends @ https://superpositiontoronto.com/  
@@ -19,9 +19,9 @@ An incoming computer science student at the University of Waterloo! Follow my jo
 * Martial artist here! 10 years of Wado Ryu Karate experience, pow pow 🤗
 
 ✨ **I won't shut up about...**  
-* Feminism. Period. 
+* Feminism. 
 
 📫 **Connect w/me...**  
 LinkedIn: https://www.linkedin.com/in/yanimei/  
-Email: y6mei@uwaterloo.ca  
+Email: yani.mei@uwaterloo.ca  
 Website: https://yani.qoom.space
